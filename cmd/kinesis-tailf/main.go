@@ -10,7 +10,7 @@ import (
 	"github.com/aws/aws-sdk-go/aws"
 	"github.com/aws/aws-sdk-go/aws/session"
 	"github.com/mashiike/didumean"
-  "github.com/tkuchiki/go-timezone"
+	"github.com/tkuchiki/go-timezone"
 	"github.com/tkuchiki/parsetime"
 
 	ktail "github.com/fujiwara/kinesis-tailf"
